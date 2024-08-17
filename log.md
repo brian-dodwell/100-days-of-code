@@ -1,22 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 16th, 2024 - Setting Up My Environment 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I created my goals and set up my accounts. I am using GitHub, FreeCodeCamp, and documenting here with the 100 days of code. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really enjoyed getting everything together. I chose Scientific Computing with Python on FCC and did the first 5 lessons. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://www.freecodecamp.org/brian-dodwell
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: August 17th, 2024 - 5 - 40 Scientific Computing with Python on FCC 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Session 1 of Coding I made progress doing modules 5-40 and setting up the journal for 100 Days of Code Progress. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Some of the scenarios were vague at points, yet, I worked through them, and I am starting to understand things a bit better. As well I convinced my kid to join me and now we are learning the course together. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://www.freecodecamp.org/brian-dodwell
 
 
 ### Day 1: June 27, Monday
