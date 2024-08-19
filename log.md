@@ -10,9 +10,8 @@
 
 ### Day 1: August 17th, 2024 - 5 - 40 Scientific Computing with Python on FCC 
 
-**Today's Progress**: Session 1 of Coding I made progress doing modules 5-40 and setting up the journal for 100 Days of Code Progress. 
-
-                      Session 2 of Coding later in the day I did modules 40-61. These grew to be a bit tougher for me as I began building on to the knowledge. I want to believe I was                                     trying to over complicate a simple concept and read too much into it. The kid is on the same module and it is nice to work with him on these                                             concepts. When I began programming before, my brain would get frazzeled and I would feel stuck. Eventually, I would give into temptaion and falter                                       with progress.  
+**Today's Progress**: Session 1 of Coding I made progress doing modules 5-40 and setting up the journal for 100 Days of Code Progress. \
+Session 2 of Coding later in the day I did modules 40-61. These grew to be a bit tougher for me as I began building on to the knowledge. I want to believe I was                                     trying to over complicate a simple concept and read too much into it. The kid is on the same module and it is nice to work with him on these                                             concepts. When I began programming before, my brain would get frazzeled and I would feel stuck. Eventually, I would give into temptaion and falter                                       with progress.  
 
 **Thoughts**: Some of the scenarios were vague at points, yet, I worked through them, and I am starting to understand things a bit better. As well I convinced my kid to join me and now we are learning the course together. 
 
